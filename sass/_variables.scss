@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Arcon;
+  src: url("fonts/Arcon-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: QuicksandBold;
+  src: url("fonts/quicksand/Quicksand-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: Quicksand;
+  src: url("fonts/quicksand/Quicksand-Regular.otf") format("opentype");
+}
+
+$theme-color-1: #67e1e0;
+$theme-color-2: #5abbae;
+$theme-color-3: #132e4f;
+$theme-color-4: #faf8e5;
+
+$top-nav-height: 102px;
